@@ -1,0 +1,11 @@
+ActiveDirectoryACE is a simple GUI for building ACE/SDDL string combinations.
+See http://msdn.microsoft.com/en-us/library/aa374928%28VS.85%29.aspx and
+http://msdn.microsoft.com/en-us/library/aa379570%28VS.85%29.aspx for more information
+
+Usage
+=======
+Compile and be happy.
+
+Note
+=======
+The use of this software is at the user's own risk.
